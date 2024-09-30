@@ -1,0 +1,107 @@
+.container{
+  height: 1600px;
+  width: 1000px;
+  background-color: rgb(213, 213, 213);
+}
+.contact{
+  display: flex;
+  gap: 30px;
+  margin-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  
+}
+h1{
+  font-size: 30px;
+}
+p{
+  font-size: 18px;
+  color:  #737373;
+  width: 400px;
+}
+.info a{
+  color: rgb(49, 107, 207);
+  margin-right: 20px;
+}
+.profile{
+  display: flex;
+  gap: 50px;
+}
+.about{
+  margin-left: 50px;
+  width: 450px;
+}
+h2{
+  display: flex;
+  
+}
+.hr{
+  border: 1px ;
+  background-color: rgb(205, 204, 204);
+  width: 440px;
+  margin-left: 20px;
+}
+.hrr{
+  border: 1px ;
+  background-color: rgb(205, 204, 204);
+  width: 170px;
+  margin-left: 20px;
+}
+ul.a{
+  display: grid;
+  grid-template-columns: auto auto;
+  font-size: 18px;
+  padding: 30px;
+  list-style-type: circle ;
+}
+li::marker {
+  color:rgb(49, 107, 207);
+  line-height: 10px;
+  font-size: 30px;
+}
+.hr3{
+  border: 1px ;
+  background-color: rgb(205, 204, 204);
+  width: 750px;
+  margin-left: 20px;
+}
+.qualification{
+  margin-left: 50px;
+}
+.education{
+   display: flex;
+   gap: 50px;
+  
+   
+}
+.experience{
+  display: flex;
+  gap: 50px;
+  
+}
+h3{
+  color:rgb(49, 107, 207);
+  font-size: 15px;
+  padding: 10px;
+}
+
+.description{
+  display: block;
+}
+h4{
+  font-size: 18px;
+}
+h5{
+  margin-left: 250px;
+  font-size: 16px;
+  color:  #737373;
+}
+.par{
+  font-size: 18px;
+  color:  #737373;
+  width: 750px;
+}
+h6{
+  font-size: 25px;
+  margin-left: 50px;
+}
